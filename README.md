@@ -1,4 +1,3 @@
-````markdown
 # Dante's Inferno: Circulus Nonus
 
 > A 2D platformer inspired by Dante Alighieri's *Divine Comedy*, developed with C#, .NET 8 and MonoGame.
