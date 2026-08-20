@@ -207,21 +207,6 @@ The game is an original implementation and is intended as a programming and game
 The project is actively used to explore 2D game development with C#, .NET and MonoGame.
 
 ````
-
-### Description репозитория
-
-Поставь:
-
-> **2D platformer inspired by Dante's Divine Comedy, built with C#, .NET 8 and MonoGame.**
-
-### Topics
-
-```text
-csharp
-dotnet
-dotnet8
-monogame
-gamedev
 game-development
 2d-game
 platformer
